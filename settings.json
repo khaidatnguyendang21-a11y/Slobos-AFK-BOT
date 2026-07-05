@@ -8,7 +8,7 @@
   "server": {
     "ip": "servercuanggiau.aternos.me",
     "port": 63698,
-    "version": "1.21.1"
+    "version": "1.8.9"
   },
   "position": {
     "enabled": true,
