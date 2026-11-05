@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "servercuanggiau.aternos.me",
-    "port": 63698,
-    "version": "1.21.10"
+    "ip": "khaidatnguyendang.aternos.me",
+    "port": 57219,
+    "version": "1.9"
   },
   "position": {
     "enabled": true,
